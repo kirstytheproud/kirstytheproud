@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Adobe%20Creative%20Cloud-blueviolet?logo=adobe-creative-cloud"/>
 <img src="https://img.shields.io/badge/-Adobe%20Creative%20Cloud-blueviolet?logo=adobe-creative-cloud&?style=for-the-badge&logo=appveyor"/>
 https://img.shields.io/badge/
+
+I realised even though I love and appreciate design I was much more interested in the inner-workings of the powerful software that designers always use. 
 -->
 
