@@ -1,6 +1,6 @@
 ### Hi there 👋
 😄 Pronouns: she/they
-
+<img src="https://img.shields.io/badge/-Adobe%20Creative%20Cloud-blueviolet?logo=adobe-creative-cloud"/>
 <!--
 **kirstytheproud/kirstytheproud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<img src="https://img.shields.io/badge/-Adobe%20Creative%20Cloud-blueviolet?logo=adobe-creative-cloud"/>
+https://img.shields.io/badge/
 -->
