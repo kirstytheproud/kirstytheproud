@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <img src="https://img.shields.io/badge/-Adobe%20Creative%20Cloud-blueviolet?logo=adobe-creative-cloud"/>
-<img src="https://img.shields.io/badge/-Adobe%20Creative%20Cloud-blueviolet?logo=adobe-creative-cloud"/>
+<img src="https://img.shields.io/badge/-Adobe%20Creative%20Cloud-blueviolet?logo=adobe-creative-cloud&?style=for-the-badge&logo=appveyor"/>
 https://img.shields.io/badge/
 -->
 
+<img src="https://img.shields.io/badge/-Adobe%20Creative%20Cloud-blueviolet?logo=adobe-creative-cloud"/>
+<img src="https://img.shields.io/badge/-Adobe%20Creative%20Cloud-blueviolet?logo=adobe-creative-cloud&?style=for-the-badge&logo=appveyor"/>
