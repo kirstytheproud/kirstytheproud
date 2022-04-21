@@ -1,5 +1,5 @@
-### Hi there 👋  😄 she/they
-
+### Hi there 👋 I'm Kirsty (😄she/they) I'm a full-stack software developer and creative coder.
+I realised even though I love and appreciate design I was much more interested in the inner-workings of the powerful software that designers always use. 
 <!--
 **kirstytheproud/kirstytheproud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
