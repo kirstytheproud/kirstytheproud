@@ -5,6 +5,15 @@ Initially I studied at Central Saint Martins to become a product designer, but I
 
 Check out my portfolio:
 https://kirstytheproud.github.io/portfolio-project/
+<br>
+<br>
+Because of my design background, I love frontend development ! But I am also a Java developer who can build APIs.
+Check out some of my work done wtih Java:
+<br>
+<ul><a href="https://github.com/kirstytheproud/forex-trading-simulator">Forex Trading Simulator</a>
+<br><a href="https://github.com/kirstytheproud/fx-market-price-api">FX Market Price API</a>
+<br><a href="https://github.com/kirstytheproud/margaritas-api-backend">Margaritas API</a>
+</ul>
 
 <img src="https://img.shields.io/badge/-Adobe%20Creative%20Cloud-blueviolet?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
