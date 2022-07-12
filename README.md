@@ -1,7 +1,7 @@
 <img src="KirstyGif_edited.gif" height="400"/>
 
 ### I'm a full-stack software developer and creative coder.
-Initially I studied at Central Saint Martins to become a product designer, but I realised even though I love and appreciate UX design and design thinking, I was much more interested in the inner-workings of the powerful software that designers always use. I love exploring the intersection of creativity, design and technology! I am currently a recent Nology graduate, having finished their intensive 12 week full-stack training programme. I am now on the job hunt looking for junior full-stack roles ! 
+Initially I studied at Central Saint Martins to become a product designer, but I realised even though I love and appreciate UX design and design thinking, I was much more interested in the inner-workings of the powerful software that designers always use. I love exploring the intersection of creativity, design and technology, and I am particularly interested in machine learning and AI. I am currently a recent Nology graduate, having finished their intensive 12 week full-stack training programme. I am now on the job hunt looking for junior full-stack roles ! 
 
 Check out my portfolio:
 https://kirstytheproud.github.io/portfolio-project/
